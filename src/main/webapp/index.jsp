@@ -7,6 +7,5 @@
 <title>Insert title here</title>
 </head>
 <body>
-	HONG GIL DONG...
-</body>
+	HONG GIL DONG..</body>
 </html>
