@@ -7,7 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-	HIHIHIHIHIHI!!
-
+	YunseoJi
+	Eclipse -> Github
 </body>
 </html>
