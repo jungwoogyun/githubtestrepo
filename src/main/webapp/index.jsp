@@ -7,5 +7,5 @@
 <title>Insert title here</title>
 </head>
 <body>
-	HONG GIL DONG.ddsad.jj</body>
+	HONG GIL DONG.</body>
 </html>
