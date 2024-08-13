@@ -7,5 +7,5 @@
 <title>Insert title here</title>
 </head>
 <body>
-	JoSeongHyun.</body>
+	Hello.</body>
 </html>
