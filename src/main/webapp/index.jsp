@@ -7,5 +7,5 @@
 <title>Insert title here</title>
 </head>
 <body>
-	kihyeonkim.</body>
+	kihyeonkim....</body>
 </html>
